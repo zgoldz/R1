@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\eclipse_juno_4.2\R1\.metadata\.plugins\org.eclipse.jdt.core
+3947790660.index
+1092471990.index
+1284074322.index
+1751188362.index
+1205824980.index
